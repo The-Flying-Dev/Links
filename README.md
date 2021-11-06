@@ -7,6 +7,7 @@
 * [StoryTime Designers](https://storytimeteam.netlify.app/) - [Github Repo](https://github.com/The-Flying-Dev/Meet-the-Team)
 * [Racer's Edge Bike Shop](https://racersedge.netlify.app) - [Github Repo](https://github.com/The-Flying-Dev/One-Page-Catalogue)
 * [Developer Bootcamp](https://bootcamp4ir.netlify.app) - [Github Repo](https://github.com/The-Flying-Dev/Bootstrap-Bootcamp-)
+* [Cook's Restaurant](https://cooksrestaurant.netlify.app/) - [Github Repo](https://github.com/The-Flying-Dev/3-Course-Menu/tree/main)
 * [New Samsung AR Glasses](https://samsungliteglasses.netlify.app) - [Github Repo](https://github.com/The-Flying-Dev/Responsive-Website-)
 * [Carved Rock Fitness](https://carvedrockfitnessapp.netlify.app/) - [Github Repo](https://github.com/The-Flying-Dev/Rock-Climbing-Business-Landing-Page)
 * [Checkout Page](https://checkoutdetails.netlify.app/) - [Github Repo](https://github.com/The-Flying-Dev/Checkout-page)
