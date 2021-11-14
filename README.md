@@ -4,6 +4,7 @@
 <br/>
 <br/>
 
+* [Blackjack](https://gameofblackjack.netlify.app/) - [Github Repo](https://github.com/The-Flying-Dev/Blackjack)
 * [People Counter](https://passengercounting.netlify.app/) - [Github Repo](https://github.com/The-Flying-Dev/Counter)
 
 
