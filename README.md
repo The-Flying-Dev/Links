@@ -1,3 +1,13 @@
+<h1>Links to Javascript Projects</h1>
+<hr>
+
+<br/>
+<br/>
+
+* [People Counter](https://passengercounting.netlify.app/) - [Github Repo](https://github.com/The-Flying-Dev/Counter)
+
+
+
 <h1>Links to Front-end Projects</h1>
 <hr>
 
