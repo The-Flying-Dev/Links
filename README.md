@@ -7,6 +7,11 @@
 * [Form Validation](https://formvalidation100.netlify.app/) - [Code](https://github.com/The-Flying-Dev/Form-Validation)
 * [Blackjack](https://gameofblackjack.netlify.app/) - [Code](https://github.com/The-Flying-Dev/Blackjack)
 * [People Counter](https://passengercounting.netlify.app/) - [Code](https://github.com/The-Flying-Dev/Counter)
+* [Data Template](https://datatemplate.netlify.app/) - [Code](https://github.com/The-Flying-Dev/JavaScript-Data-Template-)
+* [Gues the colour](https://guessingthecolour.netlify.app/) - [Code](https://github.com/The-Flying-Dev/Guess-the-colour)
+* [Random quote Generator](https://quotegenjs.netlify.app/) - [Code](https://github.com/The-Flying-Dev/Random-quote-Generator)
+* [Average Ratings Calculator](https://averageratings.netlify.app/) - [Code](https://github.com/The-Flying-Dev/Average-Ratings-Calculator)
+
 
 
 
@@ -34,4 +39,5 @@
 * [Crypto Sign Up](https://strattonoakmontcrypto.netlify.app) - [Code](https://github.com/The-Flying-Dev/Landing-page)
 * [404 Loading Error](https://page-404-error.netlify.app) - [Code](https://github.com/The-Flying-Dev/404-Not-Found-Page)
 * [Personal Details Form](https://personalprofilesetup.netlify.app) - [Code](https://github.com/The-Flying-Dev/Login-Form)
+
 
