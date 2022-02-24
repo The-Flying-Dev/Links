@@ -6,6 +6,10 @@
 
 * [Game of thrones using React](https://gameofthronesonreact.netlify.app/) - [Code](https://github.com/The-Flying-Dev/React-API-Porfolio-Project)
 * [Google Clone using React](https://thecloneofgoogle.netlify.app/) - [Code](https://github.com/The-Flying-Dev/Google-Clone)
+* [Twitter Clone using React with json api](https://reacttotwitter.netlify.app/) - [Code](https://github.com/The-Flying-Dev/React-Twitter)
+
+<br />
+
 * [Form Validation](https://formvalidation100.netlify.app/) - [Code](https://github.com/The-Flying-Dev/Form-Validation)
 * [Blackjack](https://gameofblackjack.netlify.app/) - [Code](https://github.com/The-Flying-Dev/Blackjack)
 * [People Counter](https://passengercounting.netlify.app/) - [Code](https://github.com/The-Flying-Dev/Counter)
