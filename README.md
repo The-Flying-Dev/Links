@@ -4,7 +4,8 @@
 <br/>
 <br/>
 
-
+* [Game of thrones using React](https://gameofthronesonreact.netlify.app/) - [Code](https://github.com/The-Flying-Dev/React-API-Porfolio-Project)
+* [Google Clone using React](https://thecloneofgoogle.netlify.app/) - [Code](https://github.com/The-Flying-Dev/Google-Clone)
 * [Form Validation](https://formvalidation100.netlify.app/) - [Code](https://github.com/The-Flying-Dev/Form-Validation)
 * [Blackjack](https://gameofblackjack.netlify.app/) - [Code](https://github.com/The-Flying-Dev/Blackjack)
 * [People Counter](https://passengercounting.netlify.app/) - [Code](https://github.com/The-Flying-Dev/Counter)
@@ -12,7 +13,7 @@
 * [Gues the colour](https://guessingthecolour.netlify.app/) - [Code](https://github.com/The-Flying-Dev/Guess-the-colour)
 * [Random quote Generator](https://quotegenjs.netlify.app/) - [Code](https://github.com/The-Flying-Dev/Random-quote-Generator)
 * [Average Ratings Calculator](https://averageratings.netlify.app/) - [Code](https://github.com/The-Flying-Dev/Average-Ratings-Calculator)
-* [Game of thrones using React](https://gameofthronesonreact.netlify.app/) - [Code](https://github.com/The-Flying-Dev/React-API-Porfolio-Project)
+
 
 
 
